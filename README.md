@@ -1,1 +1,1 @@
-# AISC2013_Tweet_analysis
+# AISC2013_Credit_card_approval_prediction
